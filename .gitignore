@@ -41,4 +41,10 @@ vignettes/*.pdf
 
 .DS_Store
 
-/public/*
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+.Rproj.user
