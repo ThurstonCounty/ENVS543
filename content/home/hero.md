@@ -48,7 +48,7 @@ title = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Semester course; 3 lecture hours. 3 credits. Enrollment restricted to students with graduate standing, or those with one course in statistics and permission of instructor. Develop quantitative skills for the visualization, manipulation, analysis and communication of environmental "big data." This course focuses on spatial environmental data analysis, interpretation and communication, using real-time data from the Rice Rivers Center and the R statistical analysis environment.'
+  label = 'Semester course; Enrollment restricted to students with graduate standing, or those with one course in statistics and permission of instructor. Develop quantitative skills for the visualization, manipulation, analysis and communication of environmental "big data." This course focuses on spatial environmental data analysis, interpretation and communication, using real-time data and the R statistical analysis environment.'
 +++
 
 ENVS 543. Environmental Data Literacy. 3 Hours.
