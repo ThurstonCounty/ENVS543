@@ -5,12 +5,12 @@ name = "envsxxx"
 light = true
 
 # Primary
-primary = "#63656a"
+primary = "rgb(251,116,28)"
 
 # Menu
-menu_primary = "#393e41"
+menu_primary = "rgb(86,87,89)"
 menu_text = "#fff"
-menu_text_active = "#ffce00"
+menu_text_active = "#FFBA00"
 menu_title = "#FFBA00"
 
 # Home sections
