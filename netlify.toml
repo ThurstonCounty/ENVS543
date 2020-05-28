@@ -1,7 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL --themesDir ../../"
   base    = "ENVS543"
-  publish = "ENVS543/public"
+  publish = "public"
 
 [build.environment]
   HUGO_THEME = "hugo-academic"
