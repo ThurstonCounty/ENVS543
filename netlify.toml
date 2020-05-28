@@ -1,6 +1,6 @@
 [build]
   command = "hugo --gc --minify -b $URL --themesDir ../../"
-  base    = "ENVS543"
+  base    = "ThurstonCounty/ENVS543"
   publish = "public"
 
 [build.environment]
