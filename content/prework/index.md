@@ -10,6 +10,7 @@ title: Course Preparations
 
 *Enviroinmental Data Literacy* is the first course in a sequence of classes for graduate students (and in some cases upper-level undergradaute students) in Environmental Studies, Ecology, and Evolution at Virginia Commonwealth University.  During this semester you will be introduced to the process of acquiring, manipulation, visualizing, analyzing, and communicating about ecolgoical and geospatial data using the `R` statistical programming language.  As an applied scientist, these will be some of the most important skills that you will develop in graduate school.
 
+To begin, you will need to set up your computing environment and dip your toes into `R`.  If you already know a little (or a lot) of `R`, you can skim the following items.  However, if you are new to data analysis in R, you *must* go through all the material below.  I am assuming that you will be able to perform all the operations discussed in the preliminary talks listed below.  If not, you will start the class in a deficit—not where we would like to be.
 
 ## Setting Up the R Environment
 

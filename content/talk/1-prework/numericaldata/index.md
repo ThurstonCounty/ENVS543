@@ -30,6 +30,7 @@ url_video: "https://www.youtube.com/embed/hoszXd2xNBo"
 
 This topic has slides, a video presentation of the slides, and a self-paced quiz to see if you've learned the general content.  These items are not graded and are here for your background benefit.  However, I will assume you have already gone through the slides, watched the most-awesome presentation on numerical data types you've seen to date, and taken a shot at the quiz.  
 
+If you have any questions on something in the presentation, there is a [link at the end of the slides]() to send me a question and I'll do my best to either get back to you or post the answer on the class website.
 
 #### Presentation 
 
