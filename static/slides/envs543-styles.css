@@ -1,0 +1,20 @@
+h1 {
+  color: rgb(251,116,28);
+}
+
+.inverse {
+  background-color: #272822;
+  color: #d6d6d6;
+  text-shadow: 0 0 20px #333;
+}
+
+.remark-slide-number {
+  font-size: 14px;
+  opacity: 0.25;
+}
+
+.red { 
+  color: red; 
+}
+
+

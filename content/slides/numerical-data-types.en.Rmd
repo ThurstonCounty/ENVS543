@@ -1,0 +1,60 @@
+---
+title: Numerical Data Types
+author: Rodney Dyer
+date: '2020-05-28'
+slug: numerical-data-types
+categories:
+  - Overview
+tags:
+  - Numerical Data
+summary: ''
+authors: []
+slides:
+  theme: black
+  highlight_style: dracula
+---
+
+# Numerical Data Types
+
+Environmental Data Literacy
+
+
+
+---
+
+## Slide 2
+
+...
+
+
+
+---
+
+## Slide 2
+
+...
+
+
+
+---
+
+## Slide 2
+
+...
+
+
+
+---
+
+## Slide 2
+
+...
+
+
+---
+
+## Slide 2
+
+...
+
+

@@ -1,7 +1,8 @@
 ---
-header:
-  caption: ""
-  image: ""
-title: Recent & Upcoming Talks
-view: 2
+title:  "Content Lectures"
+view: 3
+order: "desc"
+page_type: "talk"
 ---
+
+Each topic will have its own self-contained lecture content consisting of slides, a video recording, supplementary materials, an in-class activity, and a homework activity (both of which will be delived as R Notebooks).  
