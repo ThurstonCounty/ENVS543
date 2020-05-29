@@ -14,41 +14,35 @@ interval = false
 height = ""
 
 # Slides.
-# Duplicate an `[[item]]` block to add more slides.
+
+
 [[item]]
-  title = "Course Explamation 1"
-  content = "This is the shiznit :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  title = "Visualization"
+  content = "Make big and small data easier for human comprehension and understanding."
+  align = "center"  
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/book.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "headers/salamander.jpg"  
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "Left aligned stuff :smile:"
+  title = "Wrangling"
+  content = "Coercing your data into a format that is useful."
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "headers/tulum.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "Right aligned stuff :smile:"
+  title = "Modeling"
+  content = "Abstract representations of the real world."
   align = "right"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "headers/whiteboard.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++

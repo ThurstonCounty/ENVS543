@@ -1,10 +1,9 @@
 ---
 commentable: false
 date: "2018-06-28T00:00:00+01:00"
-draft: false
 header:
   caption: ""
-  image: ""
+  image: "/headers/leaf_in_fall.jpg"
 title: Course Overview
 ---
 
@@ -18,6 +17,7 @@ Students must go over the content for any particular class before we meet, there
 
 ## Schedule of Content
 
+The order and timing of each topic covered in this class is listed below as are quick links to the homework assignments associated with each week.
 
 Week | Content Section    | Topic                             | Homework  
 -----|--------------------|-----------------------------------|--------------

@@ -12,36 +12,49 @@ title: Course Preparations
 
 To begin, you will need to set up your computing environment and dip your toes into `R`.  If you already know a little (or a lot) of `R`, you can skim the following items.  However, if you are new to data analysis in R, you *must* go through all the material below.  I am assuming that you will be able to perform all the operations discussed in the preliminary talks listed below.  If not, you will start the class in a deficit—not where we would like to be.
 
-## Setting Up the R Environment
-
-The R statistical programming language is an open source project supported by an international community of indiviudals.
-
-
-### On Your Computer
-
-To get your computer set up you need to download and install two things:  
- - `R` from [cran.r-project.org](https://cran.r-project.org), and 
- - `RStudio` from [rstudio.org](https://rstudio.org).
- 
-R is the basic runtime and a rudimentary system for interacting with the language interpreter.  RStudio is the main interface through which we will be operating with the `R` environemnt.  It is a full-fledged graphical user interface and makes your life suck *a lot less*!  
-
-There are really nice tutorials on how to install both R and RStudio on those sites tailored for your particular platform.  If you run into a problem, please email [me](mailto:rjdyer@vcu.edu&subject=Install-Problem).
-
-
-### Online
-
-You can work with R and RStudio entirely online if you like.  To do this, go to [rstudio.cloud](https://rstudio.cloud) and create a free account.  This will run the RStudio GUI as a server instance that you can reach through any web interface you like.  This is *very convienent* though is not something you can rely upon for all your work.  While RStudio is currently giving this away as a free service, it may not last forever. 
 
 
 
-## Basic Data Types
+## Background Lectures
+
+<div class="card-simple">
+  <a href="/talk/1-prework/environment/">
+      <img src="/img/TitleSlides/numericaldata.png" class="article-banner" alt="Setting up your computer for this class">
+  </a>
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/talk/1-prework/environment/">Setting up the R Environment.</a>
+  </h3>
+  <div class="article-style">
+  <p>This talk will focus on getting you and your computer ready for the semester.  There are some applications that you'll need to download and install on your computer *before* we start class.  We will also need to install some packages in `R` that have all the data sets and other content that we use in the class so you will be ready.</p>
+  </div>
+</div>
+
+
+<div class="card-simple">
+  <a href="/talk/1-prework/datatypes/">
+      <img src="/img/TitleSlides/numericaldata.png" class="article-banner" alt="Data Types in R">
+  </a>
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/talk/1-prework/datatypes/">Data Types in R.</a>
+  </h3>
+  <div class="article-style">
+  <p>This set of talks will focus on the four primary types of data we will use in R: (*numerical*, *character*, *logical*, and *factors* ).  In these activities you will gain a basic understanding of how to initiate, coerce, convert, and perform basic operations with each type of data in the most common contexts they will be found in this class.</p>
+  </div>
+</div>
 
 
 
-- [Numerical Data](/talk/1-prework/numericaldata/)
+<div class="card-simple">
+  <a href="/talk/1-prework/containers/">
+      <img src="/img/TitleSlides/numericaldata.png" class="article-banner" alt="Data containers in R.">
+  </a>
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/talk/1-prework/datacontainers/">Data Containers.</a>
+  </h3>
+  <div class="article-style">
+  <p>TThese short talks will cover three of the more commonly used data containers in `R`: `data.frame`, `list`, and `matrix`.  Here we will cover how to create these structures *de novo* as well as load content from files, the internet, or a database.</p>
+  </div>
+</div>
 
 
 
-## Containers for Data
-
-- [Data Frames]()

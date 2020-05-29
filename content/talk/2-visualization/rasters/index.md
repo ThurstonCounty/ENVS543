@@ -23,6 +23,7 @@ math: true
 slides: overview
 summary: This lecture focuses on raster data analysis and visualization.  Rasters are ...
 tags: []
+keywords: ["visualization"]
 title: Raster-based Data
 url_code: ""
 url_pdf: ""

@@ -24,6 +24,7 @@ publishDate: "2020-05-01T00:00:00Z"
 slides: overview
 summary: One of the main benefits of modern technology is the ability to look at our data in new and interesting ways.  This topic focuses on developing interactive graphical displays by leveraging the dynamic nature of markdown, html, and javascript.
 tags: []
+keywords: ["visualization"]
 title: Interactive Visualization of Data.
 url_code: ""
 url_pdf: ""

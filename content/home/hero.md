@@ -34,24 +34,16 @@ title = ""
   text_color_light = false
 
 # Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/prework/"
   label = "Get Started"
   icon_pack = "fas"
-  icon = "download"
-  
-#[cta_alt]
-#  url = "https://github.com/ThurstonCounty"
-#  label = "CTA Alternative Link"
+  icon = "running"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Semester course; Enrollment restricted to students with graduate standing, or those with one course in statistics and permission of instructor. Develop quantitative skills for the visualization, manipulation, analysis and communication of environmental "big data." This course focuses on spatial environmental data analysis, interpretation and communication, using real-time data and the R statistical analysis environment.'
+  label = 'Semester course, 3 credit hours; Enrollment restricted to students with graduate standing, or those with one course in statistics and permission of instructor. Develop quantitative skills for the visualization, manipulation, analysis and communication of environmental "big data." This course focuses on spatial environmental data analysis, interpretation and communication, using real-time data and the R statistical analysis environment.'
 +++
-
-ENVS 543. Environmental Data Literacy. 3 Hours.
 
 
 

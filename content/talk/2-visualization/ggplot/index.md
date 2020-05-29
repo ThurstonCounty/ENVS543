@@ -8,23 +8,19 @@ address:
   street: 1000 West Cary Street
 all_day: false
 authors: ["Rodney"]
-date: "2020-08-14T13:00:00Z"
-date_end: "2030-08-14T15:00:00Z"
-event: Environmental Data Literacy
-event_url: https://example.org
+date: "2020-08-10T10:00:00Z"
+date_end: "2020-08-10T15:00:00Z"
+event: GGPlot Visualization Lecture
+event_url: https://us02web.zoom.us/j/86289645889?pwd=YzVBZlhPYUwydE5pNWVhTFExSlA2Zz09
 featured: false
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/vcuenvs
 location: Center for Environmental Studies
-math: true
-publishDate: "2020-05-01T00:00:00Z"
+math: false
+publishDate: "2020-01-01T00:00:00Z"
 slides: overview
 summary: Plotting using the ggplot library.
 tags: []
-title: Univariate & Bivariate Data Visualization
+keywords: ["visualization"]
+title: Univariate & Bivariate Data Visualization Using ggplot2
 url_code: ""
 url_pdf: ""
 url_slides: ""
