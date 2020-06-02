@@ -19,7 +19,7 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 <div class="card-simple">
   <a href="/talk/1-prework/environment/">
-      <img src="/img/TitleSlides/numericaldata.png" class="article-banner" alt="Setting up your computer for this class">
+      <img src="/talk/1-prework/environment/featured.jpg" class="article-banner" alt="Setting up your computer for this class">
   </a>
   <h3 class="article-title mb-1 mt-3">
     <a href="/talk/1-prework/environment/">Setting up the R Environment.</a>
