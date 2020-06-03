@@ -32,7 +32,7 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 <div class="card-simple">
   <a href="/talk/1-prework/datatypes/">
-      <img src="/img/TitleSlides/numericaldata.png" class="article-banner" alt="Data Types in R">
+      <img src="/talk/1-prework/datatypes/featured.jpg" class="article-banner" alt="Data Types in R">
   </a>
   <h3 class="article-title mb-1 mt-3">
     <a href="/talk/1-prework/datatypes/">Data Types in R.</a>
@@ -46,7 +46,7 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 <div class="card-simple">
   <a href="/talk/1-prework/containers/">
-      <img src="/img/TitleSlides/numericaldata.png" class="article-banner" alt="Data containers in R.">
+      <img src="/talk/1-prework/containers/featured.jpg" class="article-banner" alt="Data containers in R.">
   </a>
   <h3 class="article-title mb-1 mt-3">
     <a href="/talk/1-prework/datacontainers/">Data Containers.</a>

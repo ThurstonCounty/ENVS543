@@ -21,20 +21,21 @@ The order and timing of each topic covered in this class is listed below as are 
 
 Week | Content Section    | Topic                             | Homework  
 -----|--------------------|-----------------------------------|--------------
-1    | Visualization      | Markdown & Notebooks              | 
-2    | Visualization      | GGPlot2                           |
-3    | Visualization      | Spatial Data                      |
-4    | Visualization      | Rasters                           |
-5    | Visualization      | Interactive Graphics              |
-6    | Data Manipulation  | String & Factor Data              |
-7    | Data Manipulation  | Tidyverse I                       |
-8    | Data Manipulation  | Tidyverse II                      |
-9    | Data Manipulation  | Functions & Iteration             |
-10   | Data Manipulation  | Database                          |
-11   | Models             | Ordination & Tree-based Processes |
-12   | Models             | Correlation & Regression Models   |
-13   | Models             | Linear Models                     |
-14   | Models             |
+1    | Visualization      | Markdown & Notebooks              | <!--  10 Aug  -->
+2    | Visualization      | GGPlot2                           | <!--  17 Aug  -->
+3    | Visualization      | Spatial Data                      | <!--  24 Aug  -->
+4    | Visualization      | Rasters                           | <!--  31 Aug  -->
+5    | Visualization      | Interactive Graphics              | <!--   7 Sep -->
+6    | Data Manipulation  | String & Factor Data              | <!--  14 Sep  --> 
+7    | Data Manipulation  | Tidyverse I                       | <!--  21 Sep  -->
+8    | Data Manipulation  | Tidyverse II                      | <!--  28 Sep  -->
+9    | Data Manipulation  | Functions & Iteration             | <!--   5 Oct  -->
+10   | Data Manipulation  | Database                          | <!--  12 Oct  -->
+11   | Models             | Ordination & Tree-based Processes | <!--  19 Oct  -->
+12   | Models             | Correlation & Regression Models   | <!--  26 Oct  -->
+13   | Models             | Anova & Ancova                    | <!--   2 Nov  -->
+14   | Models             | Spatial Statistics                | <!--   9 Nov  -->
+15   | Flex               | Flex                              | <!--  16 Nov  -->
 
 
 

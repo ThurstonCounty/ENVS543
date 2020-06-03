@@ -9,18 +9,28 @@
       {{ with .Content }}
       <div class="article-style">{{ . }}</div>
       {{ end }}
+    
 
-      {{ range .Data.Pages.GroupByDate "1 Sept." "asc" }}
+      {{ $currentKeyword := "" }}
+
+
+      {{ range .Data.Pages.ByDate }}
       <div class="row" id="talk_list">
-        <div class="col-lg-2">
-          <h3>{{ .Key }}</h3>
+        
+        
+        
+        <div class = "col-lg-3">
+        {{ $nextKeyword := .Param "keywords" }}
+        {{ if ne $nextKeyword $currentKeyword }}
+            <h3> {{ printf "%s" $nextKeyword }} </h3>
+            {{ $currentKeyword = $nextKeyword }}
+        {{ end }}
         </div>
-        <div class="col-lg-10">
-
-          {{ range .Pages }}
-              {{ partial "li_card_talks" . }}
-          {{ end }}
-
+        
+      
+        <div class="col-lg-9">
+        {{ partial "li_card_talks" . }}
+        <p>&nbsp;</p>
         </div>
       </div>
       {{ end }}
@@ -31,4 +41,3 @@
 </div>
 
 {{- end -}}
-
