@@ -15,14 +15,14 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 
 
-## Background Lectures
+## Prework Lectures
 
 <div class="card-simple">
-  <a href="/talk/1-prework/environment/">
-      <img src="/talk/1-prework/environment/featured.jpg" class="article-banner" alt="Setting up your computer for this class">
+  <a href="/talk/environment/">
+      <img src="/talk/environment/featured.jpg" class="article-banner" alt="Setting up your computer for this class">
   </a>
   <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/1-prework/environment/">Setting up the R Environment.</a>
+    <a href="/talk/environment/">Setting up the R Environment.</a>
   </h3>
   <div class="article-style">
   <p>This talk will focus on getting you and your computer ready for the semester.  There are some applications that you'll need to download and install on your computer *before* we start class.  We will also need to install some packages in `R` that have all the data sets and other content that we use in the class so you will be ready.</p>
@@ -31,11 +31,11 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 
 <div class="card-simple">
-  <a href="/talk/1-prework/datatypes/">
-      <img src="/talk/1-prework/datatypes/featured.jpg" class="article-banner" alt="Data Types in R">
+  <a href="/talk/data_types/">
+      <img src="/talk/data_types/featured.jpg" class="article-banner" alt="Data Types in R">
   </a>
   <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/1-prework/datatypes/">Data Types in R.</a>
+    <a href="/talk/data_types/">Data Types in R.</a>
   </h3>
   <div class="article-style">
   <p>This set of talks will focus on the four primary types of data we will use in R: (*numerical*, *character*, *logical*, and *factors* ).  In these activities you will gain a basic understanding of how to initiate, coerce, convert, and perform basic operations with each type of data in the most common contexts they will be found in this class.</p>
@@ -45,14 +45,14 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 
 <div class="card-simple">
-  <a href="/talk/1-prework/containers/">
-      <img src="/talk/1-prework/containers/featured.jpg" class="article-banner" alt="Data containers in R.">
+  <a href="/talk/data_containers/">
+      <img src="/talk/data_containers/featured.jpg" class="article-banner" alt="Data containers in R.">
   </a>
   <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/1-prework/datacontainers/">Data Containers.</a>
+    <a href="/talk/data_containers/">Data Containers.</a>
   </h3>
   <div class="article-style">
-  <p>TThese short talks will cover three of the more commonly used data containers in `R`: `data.frame`, `list`, and `matrix`.  Here we will cover how to create these structures *de novo* as well as load content from files, the internet, or a database.</p>
+  <p>These short talks will cover three of the more commonly used data containers in `R`: `data.frame`, `list`, and `matrix`.  Here we will cover how to create these structures *de novo* as well as load content from files, the internet, or a database.</p>
   </div>
 </div>
 

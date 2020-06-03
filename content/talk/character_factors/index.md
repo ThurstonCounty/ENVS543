@@ -7,7 +7,6 @@ address:
   region: VA
   street: 1000 West Cary Street
 all_day: false
-authors: ["Rodney"]
 date: "2020-09-14T10:00:00Z"
 date_end: "2020-09-14T15:00:00Z"
 event: Data Literacy Lecture on Character Data & Factors

@@ -7,7 +7,6 @@ address:
   region: VA
   street: 1000 West Cary Street
 all_day: false
-authors: ["Rodney"]
 date: "2020-10-19T10:00:00Z"
 date_end: "2020-10-19T15:00:00Z"
 event: Data Literacy Lecture on Ordination & Tree-Models

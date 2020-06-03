@@ -7,7 +7,6 @@ address:
   region: VA
   street: 1000 West Cary Street
 all_day: false
-authors: ["Rodney"]
 date: "2020-08-10T13:00:00Z"
 date_end: "2030-10-21T15:00:00Z"
 event: Data Literacy Lecture on Markdown & Notebooks

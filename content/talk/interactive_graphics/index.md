@@ -7,7 +7,6 @@ address:
   region: VA
   street: 1000 West Cary Street
 all_day: false
-authors: ["Rodney"]
 date: "2020-09-07T13:00:00Z"
 date_end: "2030-09-07T15:00:00Z"
 event: Data Literacy Lecture on Interactive Graphics
