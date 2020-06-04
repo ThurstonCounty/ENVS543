@@ -35,6 +35,40 @@ background-size: auto
 
 
 
+---
+
+class: sectionTitle
+
+# Tidy Data
+
+---
+
+class: sectionTitle
+
+# Piping
+
+
+
+---
+
+class: sectionTitle
+
+# Filtering Rows & Columns
+
+
+
+---
+
+class: sectionTitle
+
+# Grouping & Summarizing
+
+
+
+
+
+
+
 
 
 

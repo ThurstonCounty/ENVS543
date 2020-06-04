@@ -38,6 +38,44 @@ background-size: auto
 
 ---
 
+class: sectionTitle
+
+# All That Data!
+
+
+---
+
+class: sectionTitle
+
+# Distance Based Approaches
+
+
+
+---
+
+class: sectionTitle
+
+# PCA & MRDM
+
+
+
+---
+
+class: sectionTitle
+
+# Tree-Based Algorithms
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -35,8 +35,43 @@ background-size: auto
 
 
 
+---
+
+class: sectionTitle
+
+# Analysis of Variance
+
+
 
 ---
+
+class: sectionTitle
+
+# Facorial & Nested Designs
+
+
+
+---
+
+class: sectionTitle
+
+# Mixed Models
+
+
+
+---
+
+class: sectionTitle
+
+# Analysis of Covariance
+
+
+
+
+
+
+
+
 
 
 

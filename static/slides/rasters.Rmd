@@ -33,6 +33,52 @@ background-size: auto
 <img src="images/logo1.svg" width="400px">
 
 
+---
+
+class: sectionTitle
+
+# Rasters
+
+
+
+---
+
+class: sectionTitle
+
+# Raster Projections
+
+
+
+
+---
+
+class: sectionTitle
+
+# Rasters & GGPlot
+
+
+
+---
+
+class: sectionTitle
+
+# Masking & Subregions
+
+
+
+---
+
+class: sectionTitle
+
+# Rasters, Points, Lines, & Polygons
+
+
+
+
+
+
+
+
 
 
 

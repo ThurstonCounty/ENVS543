@@ -34,6 +34,43 @@ background-size: auto
 
 
 
+---
+
+class: sectionTitle
+
+# Flatfiles
+
+
+
+---
+
+class: sectionTitle
+
+# Database Access
+
+
+---
+
+class: sectionTitle
+
+# Databases & Tidyverse
+
+
+
+---
+
+class: sectionTitle
+
+# GeoDatabases
+
+
+
+
+
+
+
+
+
 
 
 

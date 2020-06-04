@@ -19,7 +19,7 @@ background-position: right
 background-size: auto
 
 
-# Numerical Data in R
+# Data Types in R
 
 
 
@@ -60,6 +60,20 @@ You can also go in the opposite direction
 42 -> y
 y
 ```
+
+
+
+
+
+
+
+---
+
+class: sectionTitle
+
+# Numerical Data  
+
+
 
 
 
@@ -242,6 +256,39 @@ x == y
 print(x, digits=20)
 print(y, digits=20)
 ```
+
+
+
+
+---
+
+class: sectionTitle
+
+# Character Data
+
+
+
+
+---
+
+class: sectionTitle
+
+# Logical Data
+
+
+
+
+---
+
+class: sectionTitle
+
+# Factors
+
+
+
+
+
+
 
 
 

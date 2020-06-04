@@ -19,11 +19,11 @@ background-position: right
 background-size: auto
 
 
-# The R Environment
+# Data Containers
+
+### vectors - data.frame - list - matrix
 
 
-
-### Installation & Environment Configuration
 
 
 <p>&nbsp;</p>
@@ -36,43 +36,7 @@ background-size: auto
 
 class: sectionTitle
 
-# Software 
-
-
-
----
-
-# The `R` Language
-
-
-
-
-
----
-
-# Community Input
-
-
-
----
-
-# Getting R
-
-
-
-
-
----
-
-# Keeping Updated
-
-
-
-
----
-
-# The Native `R` Interface
-
+# Vectors
 
 
 
@@ -81,48 +45,26 @@ class: sectionTitle
 
 class: sectionTitle
 
-# RStudio 
-
-
----
-
-# RStudio
-
-
-
----
-
-# Installing RStudio
+# Data Frames
 
 
 
 
 ---
 
-# Using RStudio Cloud
+class: sectionTitle
 
-
-
-
-
-
----
-
-# Tour of the Interface
-
+# Lists
 
 
 
 ---
 
-# Customization
+class: sectionTitle
+
+# Matrices
 
 
-
-
----
-
-# Scripts & Markdown
 
 
 

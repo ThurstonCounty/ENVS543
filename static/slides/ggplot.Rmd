@@ -34,6 +34,71 @@ background-size: auto
 
 
 
+---
+
+class: sectionTitle
+
+# Built-in Plotting
+
+
+---
+
+class: sectionTitle
+
+# The Grammar of Graphics
+
+
+
+---
+
+class: sectionTitle
+
+# Univariate Data
+
+
+
+---
+
+class: sectionTitle
+
+# Bivariate Data
+
+
+
+---
+
+class: sectionTitle
+
+# Multivariate Data
+
+
+
+---
+
+class: sectionTitle
+
+# Color Spaces
+
+
+
+---
+
+class: sectionTitle
+
+# Transformations
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

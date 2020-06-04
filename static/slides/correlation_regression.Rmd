@@ -35,8 +35,57 @@ background-size: auto
 
 
 
+---
+
+class: sectionTitle
+
+# Parametric Correlation
+
+
 
 ---
+
+class: sectionTitle
+
+# Non-Parametric Correlation
+
+
+
+
+---
+
+class: sectionTitle
+
+# Parametric Regression
+
+
+
+
+---
+
+class: sectionTitle
+
+# Non-Parametric Regression
+
+
+
+
+---
+
+class: sectionTitle
+
+# Model Fitting
+
+
+
+
+
+
+
+
+
+
+
 
 
 

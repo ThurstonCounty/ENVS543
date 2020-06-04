@@ -26,7 +26,7 @@ Week | Content Section    | Topic                             | Homework
 3    | Visualization      | Spatial Data                      | <!--  24 Aug  -->
 4    | Visualization      | Rasters                           | <!--  31 Aug  -->
 5    | Visualization      | Interactive Graphics              | <!--   7 Sep -->
-6    | Data Manipulation  | String & Factor Data              | <!--  14 Sep  --> 
+6    | Data Manipulation  | Character & Factor Data           | <!--  14 Sep  --> 
 7    | Data Manipulation  | Tidyverse I                       | <!--  21 Sep  -->
 8    | Data Manipulation  | Tidyverse II                      | <!--  28 Sep  -->
 9    | Data Manipulation  | Functions & Iteration             | <!--   5 Oct  -->

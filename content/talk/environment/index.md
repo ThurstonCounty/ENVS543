@@ -25,6 +25,7 @@ url_video: ""
 ---
 
 
+
 ## Setting Up the R Environment
 
 The R statistical programming language is an open source project supported by an international community of indiviudals.
