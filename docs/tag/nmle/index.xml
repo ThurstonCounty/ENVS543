@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nmle | Environmental Data Literacy</title>
+    <link>/tag/nmle/</link>
+      <atom:link href="/tag/nmle/index.xml" rel="self" type="application/rss+xml" />
+    <description>nmle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2d02862f42118b188a943d451b1b9cf3_2342_512x512_fill_lanczos_center_2.png</url>
+      <title>nmle</title>
+      <link>/tag/nmle/</link>
+    </image>
+    
+    <item>
+      <title>Correlation and regression models.</title>
+      <link>/talk/correlation_regression/</link>
+      <pubDate>Mon, 26 Oct 2020 10:00:00 +0000</pubDate>
+      <guid>/talk/correlation_regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tibble | Environmental Data Literacy</title>
+    <link>/tag/tibble/</link>
+      <atom:link href="/tag/tibble/index.xml" rel="self" type="application/rss+xml" />
+    <description>tibble</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Aug 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2d02862f42118b188a943d451b1b9cf3_2342_512x512_fill_lanczos_center_2.png</url>
+      <title>tibble</title>
+      <link>/tag/tibble/</link>
+    </image>
+    
+    <item>
+      <title>Data Containers In R</title>
+      <link>/talk/data_containers/</link>
+      <pubDate>Fri, 07 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>/talk/data_containers/</guid>
+      <description>&lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;h2 id=&#34;matrix&#34;&gt;Matrix&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

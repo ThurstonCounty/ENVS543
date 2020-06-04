@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sp | Environmental Data Literacy</title>
+    <link>/tag/sp/</link>
+      <atom:link href="/tag/sp/index.xml" rel="self" type="application/rss+xml" />
+    <description>sp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2d02862f42118b188a943d451b1b9cf3_2342_512x512_fill_lanczos_center_2.png</url>
+      <title>sp</title>
+      <link>/tag/sp/</link>
+    </image>
+    
+    <item>
+      <title>Working with spatial points, lines, and polygons.</title>
+      <link>/talk/spatial_data/</link>
+      <pubDate>Mon, 24 Aug 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/spatial_data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
