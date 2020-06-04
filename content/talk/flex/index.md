@@ -20,6 +20,6 @@ keywords: ["models"]
 title: Flex time for additional analytical information
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/flex.html"
 url_video: ""
 ---

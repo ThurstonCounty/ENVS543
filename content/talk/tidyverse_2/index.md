@@ -20,6 +20,6 @@ keywords: ["data munging"]
 title: Tidyverse II
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/tidyverse_2.html"
 url_video: ""
 ---

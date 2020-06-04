@@ -20,7 +20,7 @@ tags: []
 title: The R Environment - How to get your computer ready.
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/environment.html"
 url_video: ""
 ---
 
@@ -41,9 +41,6 @@ To get your computer set up you need to download and install two things:
 1. R is engine and RStudio is dashboard.  "modern dive"
 2. Download R & RStudio
 
- 
- 
- 
 R is the basic runtime and a rudimentary system for interacting with the language interpreter.  RStudio is the main interface through which we will be operating with the `R` environemnt.  It is a full-fledged graphical user interface and makes your life suck *a lot less*!  
 
 

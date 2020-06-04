@@ -20,7 +20,7 @@ keywords: ["visualization"]
 title: Working with spatial points, lines, and polygons.
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/spatial_data.html"
 url_video: ""
 ---
 

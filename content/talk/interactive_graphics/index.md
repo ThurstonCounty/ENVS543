@@ -19,7 +19,7 @@ keywords: ["visualization"]
 title: Interactive Visualization of Data.
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/interactive_graphics.html"
 url_video: ""
 ---
 

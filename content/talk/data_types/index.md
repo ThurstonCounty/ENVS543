@@ -20,7 +20,7 @@ tags: ["numeric","character","logical","factor"]
 title: Data Types In R
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/data_types.html"
 url_video: ""
 ---
 

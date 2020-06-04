@@ -20,6 +20,6 @@ keywords: ["models"]
 title: Ordination and Tree-Based Models in R
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/ordination_trees.html"
 url_video: ""
 ---

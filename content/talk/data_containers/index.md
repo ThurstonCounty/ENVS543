@@ -20,7 +20,7 @@ tags: ["data.frame","tibble","matrix","list"]
 title: Data Containers In R
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/data_containers.html"
 url_video: ""
 ---
 

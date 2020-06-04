@@ -1,6 +1,6 @@
 ---
-title: ""
-subtitle: ""
+title: "The Title"
+subtitle: "The Subtitle"
 output:
   xaringan::moon_reader:
     lib_dir: libs

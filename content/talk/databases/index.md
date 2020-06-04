@@ -20,6 +20,6 @@ keywords: ["data munging"]
 title: Databases in R
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/databases.html"
 url_video: ""
 ---

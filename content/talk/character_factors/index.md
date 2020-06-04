@@ -20,6 +20,6 @@ keywords: ["data munging"]
 title: Character and Factor Data in R.
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/character_factor.html"
 url_video: ""
 ---

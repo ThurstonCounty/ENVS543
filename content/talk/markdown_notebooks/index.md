@@ -20,7 +20,7 @@ tags: ["rmarkdown","knitr","kableExtras"]
 title: RMarkdown & Notebooks
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/markdown_notebooks.html"
 url_video: ""
 ---
 

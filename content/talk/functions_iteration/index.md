@@ -20,6 +20,6 @@ keywords: ["data munging"]
 title: Functions & Iteration in R
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/functions_iteration.html"
 url_video: ""
 ---

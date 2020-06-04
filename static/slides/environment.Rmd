@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "The R Environment"
+subtitle: "Installation & Environment Configuration"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -22,7 +23,7 @@ background-size: auto
 
 
 
-### Packages & Projects
+### Installation & Environment Configuration
 
 
 <p>&nbsp;</p>
@@ -31,30 +32,17 @@ background-size: auto
 
 <img src="images/logo1.svg" width="400px">
 
-
 ---
 
 class: sectionTitle
 
-# Packages 
-
-
----
-
-# What is a Package?
+# Software 
 
 
 
 ---
 
-# Where do Packages Come From?
-
-
-
----
-
-# Installing Packages from CRAN
-
+# The `R` Language
 
 
 
@@ -62,7 +50,13 @@ class: sectionTitle
 
 ---
 
-# Installing Packages from Github
+# Community Input
+
+
+
+---
+
+# Getting R
 
 
 
@@ -70,18 +64,14 @@ class: sectionTitle
 
 ---
 
-# Installing Packages for ENVS543
+# Keeping Updated
 
 
 
 
+---
 
-
-
-
-
-
-
+# The Native `R` Interface
 
 
 
@@ -91,12 +81,48 @@ class: sectionTitle
 
 class: sectionTitle
 
-# Projects 
+# RStudio 
+
+
+---
+
+# RStudio
+
+
+
+---
+
+# Installing RStudio
+
+
+
+
+---
+
+# Using RStudio Cloud
 
 
 
 
 
+
+---
+
+# Tour of the Interface
+
+
+
+
+---
+
+# Customization
+
+
+
+
+---
+
+# Scripts & Markdown
 
 
 

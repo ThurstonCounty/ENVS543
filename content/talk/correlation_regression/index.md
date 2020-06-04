@@ -20,6 +20,6 @@ keywords: ["models"]
 title: Correlation and regression models.
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/correlation_regression.html"
 url_video: ""
 ---

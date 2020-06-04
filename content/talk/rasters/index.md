@@ -20,7 +20,7 @@ keywords: ["visualization"]
 title: Raster-based Data
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/rasters.html"
 url_video: ""
 ---
 

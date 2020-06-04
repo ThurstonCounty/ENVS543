@@ -20,6 +20,6 @@ keywords: ["models"]
 title: An Introduction to Spatial Statistics in R
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/spatial_statistics.html"
 url_video: ""
 ---

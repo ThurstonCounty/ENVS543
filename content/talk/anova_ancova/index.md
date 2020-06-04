@@ -20,6 +20,6 @@ keywords: ["models"]
 title: Analysis of Variance and Covariance
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/anova_ancova.html"
 url_video: ""
 ---

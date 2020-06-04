@@ -20,7 +20,7 @@ keywords: ["visualization"]
 title: Univariate & Bivariate Data Visualization Using ggplot2
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/slides/ggplot.html"
 url_video: ""
 ---
 
