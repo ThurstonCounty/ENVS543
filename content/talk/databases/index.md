@@ -18,8 +18,8 @@ summary: Interacting with databases.
 tags: ["dplyr"]
 keywords: ["data munging"]
 title: Databases in R
-url_code: ""
+url_code: "/code/databases.nb.html"
 url_pdf: ""
 url_slides: "/slides/databases.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

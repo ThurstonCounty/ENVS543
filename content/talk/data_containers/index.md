@@ -21,7 +21,7 @@ title: Data Containers In R
 url_code: ""
 url_pdf: ""
 url_slides: "/slides/data_containers.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 
 

@@ -21,7 +21,7 @@ title: Data Types In R
 url_code: ""
 url_pdf: ""
 url_slides: "/slides/data_types.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 
 

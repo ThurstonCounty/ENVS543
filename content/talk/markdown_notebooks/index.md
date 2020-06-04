@@ -18,9 +18,9 @@ summary: This first lecture focuses on how we can integrate our quantitative fin
 keywords: ["visualization"]
 tags: ["rmarkdown","knitr","kableExtras"]
 title: RMarkdown & Notebooks
-url_code: ""
+url_code: "/code/markdown_notebooks.nb.html"
 url_pdf: ""
 url_slides: "/slides/markdown_notebooks.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 

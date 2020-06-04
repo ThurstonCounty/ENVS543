@@ -18,8 +18,8 @@ summary: Plotting using the ggplot library.
 tags: ["tidyverse","filter","select","summarize","group_by"]
 keywords: ["data munging"]
 title: Tidyverse II
-url_code: ""
+url_code: "/code/tidyverse_2.nb.html"
 url_pdf: ""
 url_slides: "/slides/tidyverse_2.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

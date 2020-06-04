@@ -18,8 +18,8 @@ summary: Correloation & Regression.
 tags: ["lm","glm","nmle"]
 keywords: ["models"]
 title: Correlation and regression models.
-url_code: ""
+url_code: "/code/correlation_regression.nb.html"
 url_pdf: ""
 url_slides: "/slides/correlation_regression.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

@@ -18,9 +18,9 @@ summary: This is the summary for the spatial data plotting topic.
 tags: ["sp","sf","rgdal","rgeos"]
 keywords: ["visualization"]
 title: Working with spatial points, lines, and polygons.
-url_code: ""
+url_code: "/code/spatial_data.nb.html"
 url_pdf: ""
 url_slides: "/slides/spatial_data.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 

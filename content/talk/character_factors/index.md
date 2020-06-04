@@ -18,8 +18,8 @@ summary: Character data and factors.
 tags: ["forcats"]
 keywords: ["data munging"]
 title: Character and Factor Data in R.
-url_code: ""
+url_code: "/code/character_factor.nb.html"
 url_pdf: ""
 url_slides: "/slides/character_factor.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

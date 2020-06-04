@@ -18,10 +18,10 @@ summary: Plotting using the ggplot library.
 tags: ["ggplot","GGally"]
 keywords: ["visualization"]
 title: Univariate & Bivariate Data Visualization Using ggplot2
-url_code: ""
+url_code: "/code/ggplot.nb.html"
 url_pdf: ""
 url_slides: "/slides/ggplot.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 
 

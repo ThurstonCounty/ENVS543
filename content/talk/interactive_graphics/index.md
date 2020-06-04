@@ -17,10 +17,10 @@ summary: One of the main benefits of modern technology is the ability to look at
 tags: ["htmlwidgets","leaflet"]
 keywords: ["visualization"]
 title: Interactive Visualization of Data.
-url_code: ""
+url_code: "/code/interactive_graphics.nb.html"
 url_pdf: ""
 url_slides: "/slides/interactive_graphics.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 
 {{% alert note %}}

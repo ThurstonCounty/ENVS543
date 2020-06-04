@@ -18,8 +18,8 @@ summary: Analysis of data in cateogorical configurations
 tags: ["aov","anova","lm"]
 keywords: ["models"]
 title: Analysis of Variance and Covariance
-url_code: ""
+url_code: "/code/anova_ancova.nb.html"
 url_pdf: ""
 url_slides: "/slides/anova_ancova.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

@@ -18,8 +18,8 @@ summary: Flex time for any additional stuff
 tags: []
 keywords: ["models"]
 title: Flex time for additional analytical information
-url_code: ""
+url_code: "/code/flex.nb.html"
 url_pdf: ""
 url_slides: "/slides/flex.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

@@ -18,8 +18,8 @@ summary: The distribution of items on the landscape can be quantified using vari
 tags: []
 keywords: ["models"]
 title: An Introduction to Spatial Statistics in R
-url_code: ""
+url_code: "/code/spatial_stats.nb.html"
 url_pdf: ""
 url_slides: "/slides/spatial_statistics.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

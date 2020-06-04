@@ -18,8 +18,8 @@ summary: Ordination and tree-models are ways to visualize multivariate data in r
 tags: []
 keywords: ["models"]
 title: Ordination and Tree-Based Models in R
-url_code: ""
+url_code: "/code/ordination.nb.html"
 url_pdf: ""
 url_slides: "/slides/ordination_trees.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

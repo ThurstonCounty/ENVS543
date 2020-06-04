@@ -18,10 +18,10 @@ summary: This lecture focuses on raster data analysis and visualization.  Raster
 tags: ["raster"]
 keywords: ["visualization"]
 title: Raster-based Data
-url_code: ""
+url_code: "/code/rasters.nb.html"
 url_pdf: ""
 url_slides: "/slides/rasters.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 
 {{% alert note %}}

@@ -18,8 +18,8 @@ summary: The tidyverse constellation of packages packs all the main content for 
 tags: ["dplyr","reshape","tidyverse"]
 keywords: ["data munging"]
 title: Tidyverse I
-url_code: ""
+url_code: "/code/tidyverse_1.nb.html"
 url_pdf: ""
 url_slides: "/slides/tidyverse_1.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---

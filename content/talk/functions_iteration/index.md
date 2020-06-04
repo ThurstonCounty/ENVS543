@@ -18,8 +18,8 @@ summary: To expand R, we can write lots of code over and over again **or** we ca
 tags: []
 keywords: ["data munging"]
 title: Functions & Iteration in R
-url_code: ""
+url_code: "/code/functions_iteration.nb.html"
 url_pdf: ""
 url_slides: "/slides/functions_iteration.html"
-url_video: ""
+url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
