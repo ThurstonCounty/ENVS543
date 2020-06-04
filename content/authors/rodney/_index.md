@@ -23,7 +23,7 @@ name: Rodney J. Dyer
 organizations:
 - name: Center for Environmental Studies
   url: "http://ces.vcu.edu"
-role: Professor & Director
+role: Rodney J. Dyer
 social:
 - icon: envelope
   icon_pack: fas
