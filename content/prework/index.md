@@ -19,7 +19,7 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 <div class="card-simple">
   <a href="https://thurstoncounty.github.io/ENVS543/talk/environment/">
-      <img src="talk/environment/featured.jpg" class="article-banner" alt="Setting up your computer for this class">
+      <img src="https://thurstoncounty.github.io/ENVS543/talk/environment/featured.jpg" class="article-banner" alt="Setting up your computer for this class">
   </a>
   <h3 class="article-title mb-1 mt-3">
     <a href="https://thurstoncounty.github.io/ENVS543/talk/environment/">Setting up the R Environment.</a>
@@ -32,7 +32,7 @@ To begin, you will need to set up your computing environment and dip your toes i
 
 <div class="card-simple">
   <a href="https://thurstoncounty.github.io/ENVS543/talk/data_types/">
-      <img src="/ENVS543/talk/data_types/featured.jpg" class="article-banner" alt="Data Types in R">
+      <img src="https://thurstoncounty.github.io/ENVS543/talk/data_types/featured.jpg" class="article-banner" alt="Data Types in R">
   </a>
   <h3 class="article-title mb-1 mt-3">
     <a href="https://thurstoncounty.github.io/ENVS543/talk/data_types/">Data Types in R.</a>
