@@ -44,10 +44,10 @@ pkgs <- installed.packages()
 pkgs <- names( is.na(pkgs[,4]))
 to_install <- setdiff( needed_pkges, pkgs )
 
-cat("Found", length(to_install), "pakages.\n")
+print( paste("Found", length(to_install), "pakages." ) ) 
 
 for( pkg in to_install) {
-  cat( "------------------------------  Installing: ", pkg, "\n" )
+  print( paste("------------------------------  Installing: ", pkg ) )
   install.packages( pkg )
 }
 
