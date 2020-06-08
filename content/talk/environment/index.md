@@ -1,5 +1,5 @@
 ---
-abstract: This talk will focus on getting you and your computer ready for the semester.  There are some applications that you'll need to download and install on your computer *before* we start class.  We will also need to install some packages in `R` that have all the data sets and other content that we use in the class so you will be ready.
+abstract: For this class, we will be using the R statistical language as the main platform for visualization, analysis, and communication.  We will also be interacting with R through the RStudio Integrated Development Environment (IDE).  These 
 address:
   city: Richmond
   country: United States
@@ -25,24 +25,23 @@ url_video: "https://youtu.be/dQw4w9WgXcQ"
 ---
 
 
+TL;DR
 
-## Setting Up the R Environment
+- Install [R](https://cran.r-project.org) on your computer.
+- Install [RStudio Desktop](https://rstudio.com) on your computer.
+- Install `devtools` as `r install.packages("devtools")`
+- Install packages for class from Github (`r devtools::source_url("")`)
 
-The R statistical programming language is an open source project supported by an international community of indiviudals.
 
 
-### On Your Computer
+## Getting Set Up
 
-To get your computer set up you need to download and install two things:  
- - `R` from [cran.r-project.org](https://cran.r-project.org), and 
- - `RStudio` from [rstudio.org](https://rstudio.org).
- 
-> Quick overview video 
+Here are the [slides](/slides/environment.html) for the basic setup.  The video below goes through these slides and shows you how to get your computer set up.
 
-1. R is engine and RStudio is dashboard.  "modern dive"
-2. Download R & RStudio
+> Link to video here
 
-R is the basic runtime and a rudimentary system for interacting with the language interpreter.  RStudio is the main interface through which we will be operating with the `R` environemnt.  It is a full-fledged graphical user interface and makes your life suck *a lot less*!  
+
+If you need more help, here are some additional resources:
 
 
 <iframe src="https://player.vimeo.com/video/203516968?color=428bca" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
