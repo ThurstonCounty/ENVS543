@@ -30,7 +30,7 @@ TL;DR
 - Install [R](https://cran.r-project.org) on your computer.
 - Install [RStudio Desktop](https://rstudio.com) on your computer.
 - Install `devtools` as `r install.packages("devtools")`
-- Install packages for class from Github (`r devtools::source_url("")`)
+- Install packages for class from Github (`r devtools::source_url("https://raw.githubusercontent.com/ThurstonCounty/ENVS543/master/R/to_install.R")`)
 
 
 

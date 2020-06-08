@@ -2,6 +2,7 @@
 rm( list=ls() )
 
 
+print("Preparing to install packages needed for ENVS543.")
 
 ############################################################
 # For Prework
@@ -43,9 +44,16 @@ pkgs <- installed.packages()
 pkgs <- names( is.na(pkgs[,4]))
 to_install <- setdiff( needed_pkges, pkgs )
 
+cat("Found", length(to_install), "pakages.\n")
+
 for( pkg in to_install) {
+  cat( "------------------------------  Installing: ", pkg, "\n" )
   install.packages( pkg )
 }
+
+
+
+print(" FINISHED Installing packages for ENVS543")
 
 
 
