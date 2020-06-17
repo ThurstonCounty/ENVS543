@@ -76,7 +76,6 @@ Start up `RStudio` and make a default project for this class:
 - Put the folder in a location on your computer that you are comfortable working with.
 - Create Project.
 
-
 Congratulations, you are now set up and ready to go.
 
 
